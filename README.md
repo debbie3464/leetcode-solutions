@@ -50,6 +50,7 @@ Daily LeetCode practice, organized by topic.
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/debbie3464/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0268-missing-number](https://github.com/debbie3464/leetcode-solutions/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
