@@ -26,6 +26,7 @@ Daily LeetCode practice, organized by topic.
 | [0242-valid-anagram](https://github.com/debbie3464/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/debbie3464/leetcode-solutions/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/debbie3464/leetcode-solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/debbie3464/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -53,6 +54,7 @@ Daily LeetCode practice, organized by topic.
 | [0020-valid-parentheses](https://github.com/debbie3464/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/debbie3464/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/debbie3464/leetcode-solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/debbie3464/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -85,4 +87,9 @@ Daily LeetCode practice, organized by topic.
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/debbie3464/leetcode-solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/debbie3464/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/debbie3464/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
