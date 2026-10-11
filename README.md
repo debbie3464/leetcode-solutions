@@ -8,6 +8,7 @@ Daily LeetCode practice, organized by topic.
 | ------- |
 | [0001-two-sum](https://github.com/debbie3464/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/debbie3464/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/debbie3464/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/debbie3464/leetcode-solutions/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/debbie3464/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/debbie3464/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -73,6 +74,7 @@ Daily LeetCode practice, organized by topic.
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/debbie3464/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/debbie3464/leetcode-solutions/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/debbie3464/leetcode-solutions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
