@@ -11,6 +11,7 @@ Daily LeetCode practice, organized by topic.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/debbie3464/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/debbie3464/leetcode-solutions/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/debbie3464/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/debbie3464/leetcode-solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/debbie3464/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/debbie3464/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/debbie3464/leetcode-solutions/tree/master/0268-missing-number) |
@@ -60,6 +61,7 @@ Daily LeetCode practice, organized by topic.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/debbie3464/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/debbie3464/leetcode-solutions/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
