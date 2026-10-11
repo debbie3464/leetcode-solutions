@@ -55,6 +55,7 @@ Daily LeetCode practice, organized by topic.
 | [0242-valid-anagram](https://github.com/debbie3464/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/debbie3464/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/debbie3464/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/debbie3464/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Math
 |  |
 | ------- |
@@ -73,6 +74,7 @@ Daily LeetCode practice, organized by topic.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/debbie3464/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/debbie3464/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
