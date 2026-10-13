@@ -17,6 +17,7 @@ Daily LeetCode practice, organized by topic.
 | [0219-contains-duplicate-ii](https://github.com/debbie3464/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/debbie3464/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/debbie3464/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/debbie3464/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/debbie3464/leetcode-solutions/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
