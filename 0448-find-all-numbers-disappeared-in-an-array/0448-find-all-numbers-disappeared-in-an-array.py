@@ -1,10 +1,10 @@
 class Solution(object):
     def findDisappearedNumbers(self, nums):
-        num_sorted = set(sorted(nums))
+        seen = set(nums)
         new_list = []
-        for index, num in enumerate (nums, start = 1):
-            if index != num and index not in num_sorted:
-                    new_list.append(index)
+        for index in range(1, len(nums) + 1):
+            if index not in seen:
+                new_list.append(index)
         return new_list
 
        
