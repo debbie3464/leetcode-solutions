@@ -8,6 +8,7 @@ Daily LeetCode practice, organized by topic.
 | ------- |
 | [0001-two-sum](https://github.com/debbie3464/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/debbie3464/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/debbie3464/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/debbie3464/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/debbie3464/leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/debbie3464/leetcode-solutions/tree/master/0035-search-insert-position) |
@@ -91,6 +92,7 @@ Daily LeetCode practice, organized by topic.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/debbie3464/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/debbie3464/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/debbie3464/leetcode-solutions/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/debbie3464/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -104,4 +106,8 @@ Daily LeetCode practice, organized by topic.
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/debbie3464/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/debbie3464/leetcode-solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
