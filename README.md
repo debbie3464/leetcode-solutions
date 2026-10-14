@@ -9,6 +9,7 @@ Daily LeetCode practice, organized by topic.
 | [0001-two-sum](https://github.com/debbie3464/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/debbie3464/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/debbie3464/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/debbie3464/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/debbie3464/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/debbie3464/leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/debbie3464/leetcode-solutions/tree/master/0035-search-insert-position) |
@@ -37,6 +38,7 @@ Daily LeetCode practice, organized by topic.
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/debbie3464/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/debbie3464/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/debbie3464/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/debbie3464/leetcode-solutions/tree/master/0268-missing-number) |
@@ -94,6 +96,7 @@ Daily LeetCode practice, organized by topic.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/debbie3464/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/debbie3464/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/debbie3464/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/debbie3464/leetcode-solutions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/debbie3464/leetcode-solutions/tree/master/0125-valid-palindrome) |
