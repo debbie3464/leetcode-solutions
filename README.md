@@ -14,6 +14,7 @@ Daily LeetCode practice, organized by topic.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/debbie3464/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/debbie3464/leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/debbie3464/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/debbie3464/leetcode-solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/debbie3464/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/debbie3464/leetcode-solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/debbie3464/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -85,6 +86,7 @@ Daily LeetCode practice, organized by topic.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/debbie3464/leetcode-solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/debbie3464/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/debbie3464/leetcode-solutions/tree/master/0322-coin-change) |
 ## Stack
@@ -119,6 +121,7 @@ Daily LeetCode practice, organized by topic.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/debbie3464/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/debbie3464/leetcode-solutions/tree/master/0055-jump-game) |
 ## Trie
 |  |
 | ------- |
