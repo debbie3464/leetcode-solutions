@@ -21,6 +21,7 @@ Daily LeetCode practice, organized by topic.
 | [0219-contains-duplicate-ii](https://github.com/debbie3464/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/debbie3464/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/debbie3464/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/debbie3464/leetcode-solutions/tree/master/0322-coin-change) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/debbie3464/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/debbie3464/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/debbie3464/leetcode-solutions/tree/master/0704-binary-search) |
@@ -85,6 +86,7 @@ Daily LeetCode practice, organized by topic.
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/debbie3464/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/debbie3464/leetcode-solutions/tree/master/0322-coin-change) |
 ## Stack
 |  |
 | ------- |
@@ -121,4 +123,16 @@ Daily LeetCode practice, organized by topic.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/debbie3464/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/debbie3464/leetcode-solutions/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/debbie3464/leetcode-solutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/debbie3464/leetcode-solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
