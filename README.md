@@ -18,6 +18,7 @@ Daily LeetCode practice, organized by topic.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/debbie3464/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/debbie3464/leetcode-solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/debbie3464/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/debbie3464/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/debbie3464/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/debbie3464/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/debbie3464/leetcode-solutions/tree/master/0268-missing-number) |
@@ -32,6 +33,7 @@ Daily LeetCode practice, organized by topic.
 | ------- |
 | [0001-two-sum](https://github.com/debbie3464/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/debbie3464/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/debbie3464/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/debbie3464/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/debbie3464/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/debbie3464/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -44,6 +46,7 @@ Daily LeetCode practice, organized by topic.
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/debbie3464/leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0169-majority-element](https://github.com/debbie3464/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/debbie3464/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/debbie3464/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/debbie3464/leetcode-solutions/tree/master/0268-missing-number) |
@@ -65,6 +68,7 @@ Daily LeetCode practice, organized by topic.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/debbie3464/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/debbie3464/leetcode-solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/debbie3464/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
@@ -115,6 +119,7 @@ Daily LeetCode practice, organized by topic.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/debbie3464/leetcode-solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/debbie3464/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/debbie3464/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/debbie3464/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -155,4 +160,8 @@ Daily LeetCode practice, organized by topic.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/debbie3464/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/debbie3464/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
