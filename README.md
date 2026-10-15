@@ -26,6 +26,7 @@ Daily LeetCode practice, organized by topic.
 | [0322-coin-change](https://github.com/debbie3464/leetcode-solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/debbie3464/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/debbie3464/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/debbie3464/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/debbie3464/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/debbie3464/leetcode-solutions/tree/master/0704-binary-search) |
 ## Hash Table
@@ -53,6 +54,7 @@ Daily LeetCode practice, organized by topic.
 | [0268-missing-number](https://github.com/debbie3464/leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/debbie3464/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/debbie3464/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/debbie3464/leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Sliding Window
 |  |
 | ------- |
@@ -119,6 +121,7 @@ Daily LeetCode practice, organized by topic.
 | [0125-valid-palindrome](https://github.com/debbie3464/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/debbie3464/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/debbie3464/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/debbie3464/leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Counting
 |  |
 | ------- |
@@ -136,6 +139,7 @@ Daily LeetCode practice, organized by topic.
 | ------- |
 | [0011-container-with-most-water](https://github.com/debbie3464/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/debbie3464/leetcode-solutions/tree/master/0055-jump-game) |
+| [0455-assign-cookies](https://github.com/debbie3464/leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Trie
 |  |
 | ------- |
@@ -170,4 +174,8 @@ Daily LeetCode practice, organized by topic.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/debbie3464/leetcode-solutions/tree/master/0169-majority-element) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/debbie3464/leetcode-solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
