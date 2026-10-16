@@ -90,6 +90,7 @@ Daily LeetCode practice, organized by topic.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/debbie3464/leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/debbie3464/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/debbie3464/leetcode-solutions/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
