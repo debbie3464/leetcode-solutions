@@ -29,6 +29,7 @@ Daily LeetCode practice, organized by topic.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/debbie3464/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/debbie3464/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/debbie3464/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0682-baseball-game](https://github.com/debbie3464/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/debbie3464/leetcode-solutions/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -113,6 +114,7 @@ Daily LeetCode practice, organized by topic.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/debbie3464/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/debbie3464/leetcode-solutions/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/debbie3464/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
@@ -197,4 +199,8 @@ Daily LeetCode practice, organized by topic.
 | [0595-big-countries](https://github.com/debbie3464/leetcode-solutions/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/debbie3464/leetcode-solutions/tree/master/0620-not-boring-movies) |
 | [1757-recyclable-and-low-fat-products](https://github.com/debbie3464/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/debbie3464/leetcode-solutions/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
