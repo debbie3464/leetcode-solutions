@@ -31,6 +31,7 @@ Daily LeetCode practice, organized by topic.
 | [0485-max-consecutive-ones](https://github.com/debbie3464/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/debbie3464/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/debbie3464/leetcode-solutions/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/debbie3464/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,6 +116,7 @@ Daily LeetCode practice, organized by topic.
 | ------- |
 | [0020-valid-parentheses](https://github.com/debbie3464/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/debbie3464/leetcode-solutions/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/debbie3464/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/debbie3464/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
@@ -203,4 +205,8 @@ Daily LeetCode practice, organized by topic.
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/debbie3464/leetcode-solutions/tree/master/0682-baseball-game) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/debbie3464/leetcode-solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
